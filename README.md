@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Daniil
+### Hi there 👋, my name is Daniil Terentyev
 #### and I like Memes =)
 ![and I like Memes =)](https://sun9-72.userapi.com/impf/2til04O5ZC8wce4OMme3IF1VwDmc0OcZO6XyMQ/VfgrrdDEAmM.jpg?size=960x1368&quality=96&proxy=1&sign=82e2c4cc818022c53d3398f2911521b6&type=album)
 
