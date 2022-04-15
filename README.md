@@ -4,6 +4,8 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
+НЕТ ВОЙНЕ! NO WAR! Украина, держись!
+
 Skills: C++ (Junior) / Qt Framework (Junior) / SQLite (Junior)
 
 - 🔭 I’m currently working on this page. 
